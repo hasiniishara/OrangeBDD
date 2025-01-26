@@ -14,6 +14,9 @@ Add selenium to the project
 2. Search Selenium -> Selenium.WebDriver install
 
 Install and view LivingDoc in to the project
+
 1.Go to the project folder -> bin -> Debug -> net6.0
+
 2.hit dotnet tool install --global SpecFlow.Plus.LivingDoc.CLI in the terminal
+
 3.After running the Test hit livingdoc test-assembly OrangeBDD.dll -t TestExecution.json in the termminal
